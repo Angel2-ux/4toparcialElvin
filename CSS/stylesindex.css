@@ -1,0 +1,365 @@
+body {
+    
+    text-align: center;
+}
+
+
+html {
+
+    background-color: #d3f5f3;
+}
+.navegacion1 {
+
+    text-decoration: none;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:22px;
+    left: 28%;
+    top: 30%;
+    color: rgb(52, 113, 245);
+    position: absolute;
+   
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  
+}
+
+
+.navegacion2 {
+
+    text-decoration: none;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:22px;
+    left: 56%;
+    top: 30%;
+    color: rgb(52, 113, 245);
+    position: absolute;
+
+    font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  
+}
+
+.navegacion3 {
+
+    text-decoration: none;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:22px;
+    left: 43%;
+    top: 30%;
+    color: rgb(52, 113, 245);
+    position: absolute;
+
+    font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  
+}
+
+
+
+.contenedor1 {
+
+    display: flex;
+
+}
+
+.contenedor2 {
+
+    background-color: rgb(211, 164, 241);
+    font-family: "Playfair Display", serif;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    
+}
+
+.contenedor3 {
+
+    background-color: rgb(216, 172, 245);
+    height: 80px;
+    width: 100%;
+    position: relative;
+    
+}
+
+
+.color {
+
+    color: rgb(151, 95, 204);
+    font-size: 66px;
+    font-family: "Unlock", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+.contenedorDamas {
+
+    background-color: rgb(255, 123, 105);
+    height: 250px;
+    margin: 10px 0px;
+    display: flex;
+    align-items: center;
+    
+}
+
+
+.titulodamas {
+    
+    background-color: rgb(189, 255, 113);
+    border-radius: 30px;
+    height: 25px;
+    width: 300px;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+
+.prendad1 {
+
+    border: 4px solid red;
+    width: 150px;
+    height: 150px;
+    margin-left: 30px;
+    
+
+}
+
+
+.pddamas1 {
+
+    text-align: center;
+    margin: 0px 20px;
+    font-family: "Playfair Display", serif;
+    font-style: italic;
+}
+
+.prendad2 {
+    border: 4px solid red;
+    width: 150px;
+    height: 150px;
+}
+
+.pddamas2 {
+
+    text-align: center;
+    margin: 0px 20px;
+    font-family: "Playfair Display", serif;
+    font-style: italic;
+}
+
+.prendad3 {
+    border: 4px solid red;
+    width: 150px;
+    height: 150px;
+}
+
+.pddamas3 {
+
+    text-align: center;
+    margin: 0px 20px;
+    font-family: "Playfair Display", serif;
+    font-style: italic;
+}
+
+.prendad4 {
+    border: 4px solid red;
+    width: 150px;
+    height: 150px;
+}
+
+.pddamas4 {
+
+    text-align: center;
+    margin: 0px 20px;
+    font-family: "Playfair Display", serif;
+    font-style: italic;
+}
+
+.contenedorCaballeros {
+
+    background-color: rgb(243, 134, 70);
+    height: 250px;
+    margin: 10px 0px;
+    display: flex;
+    align-items: center;
+}
+
+
+.titulocaballeros {
+
+    background-color: white;
+    border-radius: 30px;
+    height: 25px;
+    width: 300px;
+    text-align: center;
+    justify-content: center;
+}
+
+.prendac1 {
+
+    border: 4px solid red;
+    width: 150px;
+    height: 150px;
+    margin-left: 30px;
+
+}
+
+.pdcaballeros1 {
+
+    text-align: center;
+    margin: 0px 20px;
+    font-family: "Playfair Display", serif;
+    font-style: italic;
+}
+
+.prendac2 {
+    border: 4px solid red;
+    width: 150px;
+    height: 150px;
+}
+
+.pdcaballeros2 {
+
+    text-align: center;
+    margin: 0px 20px;
+    font-family: "Playfair Display", serif;
+    font-style: italic;
+}
+
+.prendac3 {
+    border: 4px solid red;
+    width: 150px;
+    height: 150px;
+}
+
+.pdcaballeros3 {
+
+    text-align: center;
+    margin: 0px 20px;
+    font-family: "Playfair Display", serif;
+    font-style: italic;
+}
+
+.prendac4 {
+    border: 4px solid red;
+    width: 150px;
+    height: 150px;
+}
+
+.pdcaballeros4 {
+
+    text-align: center;
+    margin: 0px 20px;
+    font-family: "Playfair Display", serif;
+    font-style: italic;
+}
+
+.contenedorNiños {
+
+    background-color: rgb(56, 103, 255);
+    height: 250px;
+    margin: 10px 0px;
+    display: flex;
+    align-items: center;
+}
+
+.tituloniños {
+
+    background-color: white;
+    border-radius: 30px;
+    height: 25px;
+    width: 300px;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+.prendan1 {
+
+    border: 4px solid red;
+    width: 150px;
+    height: 150px;
+    margin-left: 30px;
+
+}
+
+.pdniños1 {
+
+    text-align: center;
+    margin: 0px 20px;
+    font-family: "Playfair Display", serif;
+    font-style: italic;
+}
+
+.prendan2 {
+    border: 4px solid red;
+    width: 150px;
+    height: 150px;
+}
+
+.pdniños2 {
+
+    text-align: center;
+    margin: 0px 20px;
+    font-family: "Playfair Display", serif;
+    font-style: italic;
+}
+
+.prendan3 {
+    border: 4px solid red;
+    width: 150px;
+    height: 150px;
+}
+
+.pdniños3 {
+
+    text-align: center;
+    margin: 0px 20px;
+    font-family: "Playfair Display", serif;
+    font-style: italic;
+}
+
+.prendan4 {
+    border: 4px solid red;
+    width: 150px;
+    height: 150px;
+}
+
+.pdniños4 {
+
+    text-align: center;
+    margin: 0px 20px;
+    font-family: "Playfair Display", serif;
+    font-style: italic;
+}
+
+
+footer {
+
+    background-color: aquamarine;
+    height: 150px;
+    font-family: "Playfair Display", serif;
+}
+
+.footer {
+
+    
+    justify-content: center;
+    align-items: center;
+    position: relative;
+
+}
+
+
+.redessociales {
+
+width: 300px;
+height: 25px;
+margin-left: 1030px;
+
+}
+
+.iconos {
+
+    margin: 0px 20px;
+}
